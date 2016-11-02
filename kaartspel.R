@@ -172,6 +172,8 @@ while(proceed3 & !proceed5)
   
     }
     stap = 5
+    
+    #Einde van de code
 }
 
 
